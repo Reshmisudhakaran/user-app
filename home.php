@@ -15,8 +15,8 @@
           </button>
           <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
             <div class="navbar-nav">
-              <a class="nav-link active" aria-current="page" href="index.html">Main</a>
-              <a class="nav-link" href="home.html">Home</a>
+              <a class="nav-link active" aria-current="page" href="index.php">Main</a>
+              <a class="nav-link" href="home.php">Home</a>
             </div>
           </div>
         </div>
